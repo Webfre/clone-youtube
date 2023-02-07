@@ -12,7 +12,7 @@ YouTube Clone - video hosting service that provides users with video storage, de
 
 ## Preview
 
-<a href="https://webfre.github.io/website-fitness-app/" target="_blank">Follow the link 👁</a>
+<a href=" https://webfre.github.io/clone-youtube/" target="_blank">Follow the link 👁</a>
 
 ## Tech
 
