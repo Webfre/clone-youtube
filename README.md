@@ -47,6 +47,7 @@ git clone https://github.com/Webfre/clone-youtube.git
 Start the project:
 
 ```sh
+npm install
 cd my-clone-youtube
 npm start or yarn start
 ```
